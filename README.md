@@ -1,16 +1,16 @@
 <div align="center">
     <img src="https://static.vecteezy.com/system/resources/previews/019/518/340/large_2x/preview-image-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="Logo" width="250" height="250">
 
-Aliquam enim erat, porta at neque ut.
+Scroll through music private, efficiant & style.
   
-## Name Here
+## Viiverce
 
 ![Default](https://img.shields.io/badge/Hello,_World!-Second_Line-blue)
 
 ###### Color Examples: Black White Red Lime Blue Yellow Cyan Magenta Gray
 ###### Config: "_" == " " & "-" == Line between smtn & "-$color" adds a color
 </div>
-Desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Viiverce is a music player for YT-Music, Spotify & Soundcloud by Kapikaine. Its release date is TBD, but the reason I made it is cause i dont like how slow & addiness pther apps are
 
 ## Table Of Contents
 1. Installing
@@ -24,50 +24,26 @@ Desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 ## Installing
 Pacman:
 ```
-sudo pacman -S LoremIpsum
+sudo pacman -S viiverce
 ```
 Flatpak:
 ```
-flatpak install org.kapikaine.LoremIpsum
+flatpak install org.kapikaine.viiverce
 ```
 Scoop:
 ```
-scoop install loremipsum
+scoop install viiverce
 ```
 ## Bugs or Features?
 Visit [here](www.example.com) to report bugs or suggest features
 
-## Socials
-<div align="center">
-    
-![Instagram](https://img.shields.io/badge/Instagram-www.example.com-purple)
-![Youtube](https://img.shields.io/badge/Youtube-www.example.com-red)
-![Twitter](https://img.shields.io/badge/Twitter-www.example.com-blue)
-![Mastodon](https://img.shields.io/badge/Mastodon-www.example.com-green)
-
-</div>
-
-## Commands
-```
-loremipsum
-```
-Output
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-```
-
 ## Features
-1. Prints Lorem Ipsum manuscript
-2. Ajustable translation
-3. Start with any word into Lorem Ipsum
+1. Accounts for Youtube Music, Spotify & Soundcloud
+2. Private & Open Source
+3. Fast & Easy to use
 
 ## Creator(s)
 - Kapikaine
-- Micro-Soft
-- Lorem Ipsum
 
 ## License
-Creative Commons*
-
-
-###### *just dont profit off of it directly you fat baster-
+Attribution-NonCommercial 4.0 International 
