@@ -15,8 +15,6 @@ Viiverce is a music player for YT-Music, Spotify & Soundcloud by Kapikaine. Its 
 ## Table Of Contents
 1. Installing
 2. Bugs or Features?
-3. Socials
-4. Basic Commands
 5. Features
 6. Creator(s)
 7. Lisense
