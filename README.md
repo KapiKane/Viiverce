@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/019/518/340/large_2x/preview-image-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="Logo" width="250" height="250">
+    <img src="https://github.com/KapiKane/Viiverce/blob/main/Images/image-removebg-preview.png" alt="Logo" width="250" height="250">
 
 Scroll through music private, efficiant & style.
   
